@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mahinexe
+- 👋 Hi, I’m Mohammodullah Al Mahin
 - 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning C, C++, Java, Python
