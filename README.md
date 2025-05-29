@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mahinexe
+- 👀 I’m interested in Cybersecurity 
+- 🌱 I’m currently learning C, C++, Java, Python
